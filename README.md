@@ -306,21 +306,14 @@
 
 -----
 
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Karen Joilly's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=58gleairry6qdzaq1rv1sv5iu" alt="Data Card for Spotify"/>
-</details>
-</div>
-
 <div align="center">
 <table>
 <tr>
 <td>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=58gleairry6qdzaq1rv1sv5iu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=58gleairry6qdzaq1rv1sv5iu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=58gleairry6qdzaq1rv1sv5iu&count=10"/>
+<img alt="Spotify list" width="250px" src="https://spotify-recently-played-readme.vercel.app/api?user=58gleairry6qdzaq1rv1sv5iu&count=5"/>
 </td>
 </tr>
 </table>
