@@ -306,15 +306,15 @@
 
 -----
 
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Karen Joilly's Spotify Data</summary>
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=58gleairry6qdzaq1rv1sv5iu&count=10"/>
+
+</details>
+</div>
+
 <div align="center">
-<table>
-<tr>
-<td>
-<img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=58gleairry6qdzaq1rv1sv5iu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
-</td>
-<td>
-<img alt="Spotify list" width="250px" src="https://spotify-recently-played-readme.vercel.app/api?user=58gleairry6qdzaq1rv1sv5iu&count=5"/>
-</td>
-</tr>
-</table>
+<img width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=58gleairry6qdzaq1rv1sv5iu&count=5"/>
 </div>
